@@ -19,19 +19,19 @@ Learning Objectives:
 
 Major Topics:
 
-Recursion
-Linear Search
-Binary Search
-Introduction to data structures and algorithms
-Algorithmic time complexity and Big O notation
+- Recursion
+- Linear Search
+- Binary Search
+- Introduction to data structures and algorithms
+- Algorithmic time complexity and Big O notation
 
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Linked Lists
-Stacks
-Queues
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Linked Lists
+- Stacks
+- Queues
 
-Trees
-Binary Search Trees
+- Trees
+- Binary Search Trees
