@@ -7,10 +7,7 @@ Learning Objectives:
  - Write programs to implement data structures: linked lists, queues, stacks, and trees.
  - Identify the appropriate data structures to use in a program to solve a problem.
 2. Object Oriented Language Constructs
- - Write programs using text files as input and output.
- - Design and implement GUI (graphical user interfaces) programs.
  - Write a complete Java application using OO concepts such as inheritance, interfaces, polymorphism, and abstract classes.
- - Write programs that perform exception handling.
 3. Introduction to Algorithmic Complexity Theory
  - Understand the definition of O (“Big Oh”) and derive the Big O complexity of an algorithm.
  - Derive and explain the efficiency of sorting algorithms, e.g., selection sort, bubble sort, merge sort, quick sort.
@@ -35,3 +32,8 @@ Major Topics:
 
 - Trees
 - Binary Search Trees
+
+Other Topics:
+ - Write programs using text files as input and output.
+ - Design and implement GUI (graphical user interfaces) programs.
+ - Write programs that perform exception handling.
